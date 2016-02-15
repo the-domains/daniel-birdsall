@@ -1,7 +1,7 @@
 name: Daniel Birdsall
 favicon: null
 layout_spectrum: 0.11438861396163702
-typography_spectrum: 0.3340773575473577
+typography_spectrum: 0.58272
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6013255955185741
-  lightness: 0.9835324750747532
-  saturation: 0.03789604315534234
+    - '#000000'
+    - '#413833'
+    - '#6e5d4d'
+    - '#fefefe'
+    - '#e3ba86'
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.125
   rhythmicContrast: 0.5938621712848544
 purpose: []
