@@ -1,6 +1,6 @@
 name: Universal Decay and Conscious Action
 favicon: null
-layout_spectrum: 0.96741
+layout_spectrum: 0.67652
 typography_spectrum: 0.58272
 title: 'Universal Decay and Conscious Action '
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.875
   lightness: 0.1875
   saturation: 0.5625
-  rhythmicContrast: 1
+  rhythmicContrast: 0.75
 purpose: []
