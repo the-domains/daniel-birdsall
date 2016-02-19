@@ -1,4 +1,4 @@
-name: Organizing Conscious Actions Beyond The Forces of Universal Entropy
+name: Organizing Conscious Actions With Universal Forces
 favicon: null
 layout_spectrum: 0.67652
 typography_spectrum: 0.58272
@@ -22,7 +22,7 @@ color:
     - '#534b5a'
     - '#a4765c'
     - '#429686'
-  brandStrength: 0.5
+  brandStrength: 0.3125
   lightness: 0.25
   saturation: 0.5625
   rhythmicContrast: 0.75
